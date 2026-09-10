@@ -6,9 +6,8 @@
 
 ###
 
-- 🔭 Currently building a deliberately vulnerable web app covering the **OWASP Top 10** — isolated Docker instances per user, auto-graded via hidden flag detection — as my final-year major project
 - 💼 AI Developer Intern @ **CyberSmithSecure**, building the real-time backend for HIE, an AI tutor (FastAPI + LangGraph + Redis) — practiced test-first development with 300+ tests and built a load-test harness validated at 50 concurrent sessions with zero drops
-- 🧠 Also shipped **ExamOps** (full-stack exam management platform, custom graph-coloring seating algorithm) and **AgentTube AI** (RAG chatbot over YouTube transcripts using FAISS + Gemini)
+- 🧠 Also shipped **ExamOps** (full-stack exam management platform, custom graph-coloring seating algorithm), **AgentTube AI** (RAG chatbot over YouTube transcripts using FAISS + Gemini), and **DesignSense-AI** (Gemini-powered CAD design-rule validator with severity-classified issue reports)
 - 🏆 SIH 2025 college finalist · LeetCode peak 1595 · CodeChef 2★ (1430)
 - 📫 guptaakshay798@gmail.com
 
